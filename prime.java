@@ -1,4 +1,4 @@
---Program to print prime numbers
+--Java Program to print prime numbers
 public class Prime {
 
     public static void main(String[] args) {
